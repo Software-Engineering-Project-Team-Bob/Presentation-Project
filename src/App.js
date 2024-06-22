@@ -3,7 +3,7 @@ function App() {
 		<div style={{ width: "100vw", height: "100vh" }}>
 			<iframe
 				title="ruleBook"
-				src="/Online Class Management System.pdf"
+				src="/Online_Class_Management_System.pdf"
 				width="100%"
 				height="100%"
 			></iframe>
